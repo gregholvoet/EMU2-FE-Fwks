@@ -1,3 +1,9 @@
+# Exercice : Créer un CV
+Sur base de vos données personnelles ou de celles ci-dessous : 
+1. Choisissez votre fichier de départ en fonction de vos affinités
+1. Intégrez les données en HTML
+1. Ajoutez-y du style pour vous l'approprier (en CSS ou avec Bootstrap)
+
 # Curriculum Vitae
 
 ![Thomas Martin](assets/img/thomas.jpeg)
