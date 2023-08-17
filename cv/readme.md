@@ -9,12 +9,12 @@ Sur base de vos données personnelles ou de celles ci-dessous :
 ![Thomas Martin](assets/img/thomas.jpeg)
 
 ## Informations Personnelles
-Nom : Martin
-Prénom : Thomas
-Date de Naissance : 15 mars 1992 (31 ans)
-Adresse : 456, Avenue Virtuelle, 1000 Bruxelles, Belgique
-Téléphone : +32 2 34 56 78
-Email : thomas.martin@email.com
+- Nom : Martin
+- Prénom : Thomas
+- Date de Naissance : 15 mars 1992 (31 ans)
+- Adresse : 456, Avenue Virtuelle, 1000 Bruxelles, Belgique
+- Téléphone : +32 2 34 56 78
+- Email : thomas.martin@email.com
 
 ## Formations
 
