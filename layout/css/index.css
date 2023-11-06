@@ -33,3 +33,47 @@ blockquote > footer > img {
   margin-right: 15px;
   border-radius: 50%;
 }
+
+/* je commence l'exercice ici */
+img.bloc,
+.bloc img {
+    max-width: 100%;
+}
+
+.flex {
+    display: flex;
+    flex-direction: column;
+    gap: 30px 0;
+}
+
+.ligne {
+    display: flex;
+    gap: 0 30px;
+}
+
+.flex .one { flex-basis: 75%; }
+.flex .two { flex-basis: 25%; align-self: flex-end; }
+.flex .three { flex-basis: 20%; }
+.flex .four { flex-basis: 75%; }
+
+.align-right {
+    justify-content: flex-end;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 0.2fr 0.7fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    grid-auto-columns: 1fr;
+    gap: 15px 15px;
+    grid-auto-flow: row;
+    grid-template-areas:
+        "one one one two"
+        ". three four four";
+}
+  
+.grid .one { grid-area: one; align-self: end; }
+.grid .two { grid-area: two; align-self: end; }
+.grid .three { grid-area: three; }
+.grid .four { grid-area: four; }
+  
