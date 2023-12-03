@@ -38,13 +38,13 @@ Revenez quand et autant que vous le voulez ! 🖱️ </p>
 ### <a href="https://codepen.io/your-work">Codepen</a>
 <p>Bac à sable HTML/CSS/JS, idéal pour tester, prototyper</p>
 
-### <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/">Bootstrap</a> v5.2
+### <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/">Bootstrap</a> v5.3
 <p>Librairie/Design system HTML/CSS/JS. Intégrez rapidement votre site en utilisant des composants génériques</p>
 
 ### <a href="https://jquery.com/">jQuery</a>
 <p>Librairie Javascript permettant de créer de l'interaction sans trop se prendre la tête</p>
 
-### <a href="https://github.com/">GitHub</a>
+### GitHub
 <p>Codage collaboratif, archivage versionning de votre code</p>
 
 ### <a href="https://caniuse.com/">Can I use...</a>
